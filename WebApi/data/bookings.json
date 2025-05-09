@@ -1,0 +1,94 @@
+
+[
+    {
+        "id": 111,
+        "tgl_booking": "2025-05-01",
+        "unit": "Unit Induk 1",
+        "ruang": "Ruangan 1",
+        "waktu": {
+            "tanggal": "2025-05-14",
+            "jam_1": "10:00",
+            "jam_2": "12:00"
+        },
+        "konsumsi": {
+            "snack_siang": 140,
+            "makan_siang": 280,
+            "snack_sore": 0
+        },
+        "keterangan": "Rapat Mingguan",
+        "status": "Active"
+    },
+    {
+        "id": 112,
+        "tgl_booking": "2025-05-01",
+        "unit": "Unit Induk 1",
+        "ruang": "Ruangan 1",
+        "waktu": {
+            "tanggal": "2025-05-21",
+            "jam_1": "10:00",
+            "jam_2": "12:00"
+        },
+        "konsumsi": {
+            "snack_siang": 140,
+            "makan_siang": 280,
+            "snack_sore": 0
+        },
+        "keterangan": "Rapat Mingguan",
+        "status": "Active"
+    },
+    {
+        "id": 113,
+        "tgl_booking": "2025-05-01",
+        "unit": "Unit Induk 2",
+        "ruang": "Ruangan 1",
+        "waktu": {
+            "tanggal": "2025-05-14",
+            "jam_1": "14:00",
+            "jam_2": "16:00"
+        },
+        "konsumsi": {
+            "snack_siang": 0,
+            "makan_siang": 0,
+            "snack_sore": 140
+        },
+        "keterangan": "Rapat Koordinasi",
+        "status": "Active"
+    },
+    {
+        "id": 114,
+        "tgl_booking": "2025-05-02",
+        "unit": "Unit Induk 3",
+        "ruang": "Ruangan 2",
+        "waktu": {
+            "tanggal": "2025-05-14",
+            "jam_1": "09:00",
+            "jam_2": "12:00"
+        },
+        "konsumsi": {
+            "snack_siang": 140,
+            "makan_siang": 280,
+            "snack_sore": 140
+        },
+        "keterangan": "Rapat Proyek",
+        "status": "Active"
+    },
+    {
+        "id": 115,
+        "tgl_booking": "2025-05-03",
+        "unit": "Unit Induk 4",
+        "ruang": "Ruangan 2",
+        "waktu": {
+            "tanggal": "2025-05-21",
+            "jam_1": "09:00",
+            "jam_2": "12:00"
+        },
+        "konsumsi": {
+            "snack_siang": 140,
+            "makan_siang": 280,
+            "snack_sore": 0
+        },
+        "keterangan": "Rapat Terbatas",
+        "status": "Active"
+    }
+]
+
